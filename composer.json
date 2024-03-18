@@ -1,0 +1,18 @@
+{
+    "name": "elatih/vendor-service",
+    "description": "Description of the elatih vendor service package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "elatih",
+            "email": "hello@elatih.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Elatih\\VendorService\\": "src/"
+        }
+    }
+}
